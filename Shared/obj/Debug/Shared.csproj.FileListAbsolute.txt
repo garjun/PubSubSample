@@ -1,0 +1,15 @@
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\Shared.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\Shared.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\Iesi.Collections.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NHibernate.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.Core.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.NHibernate.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\Iesi.Collections.xml
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NHibernate.xml
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.Core.xml
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.NHibernate.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\bin\Debug\NServiceBus.NHibernate.xml
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\obj\Debug\Shared.dll
+C:\Arjun\Projects\Git\Hub\PubSub\Shared\obj\Debug\Shared.pdb

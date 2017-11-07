@@ -1,0 +1,17 @@
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\MyPublisher.exe
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\MyPublisher.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\Iesi.Collections.dll
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NHibernate.dll
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.dll
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.NHibernate.dll
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\Shared.dll
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\Shared.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\Iesi.Collections.xml
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NHibernate.xml
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.xml
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.NHibernate.pdb
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\bin\Debug\NServiceBus.NHibernate.xml
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\obj\Debug\MyPublisher.csprojResolveAssemblyReference.cache
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\obj\Debug\MyPublisher.exe
+C:\Arjun\Projects\Git\Hub\PubSub\MyPublisher\obj\Debug\MyPublisher.pdb
